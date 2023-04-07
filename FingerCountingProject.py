@@ -43,7 +43,7 @@ while True:
         
         #print(fingers)
         totalFingers = fingers.count(1)
-        print(totalFingers)
+        #print(totalFingers)
         
         h, w, c = overLayList[totalFingers - 1].shape
         img[0:h, 0:w] = overLayList[totalFingers - 1]

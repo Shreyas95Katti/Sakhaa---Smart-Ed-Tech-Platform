@@ -38,7 +38,7 @@ class handDetector():
                     cv2.circle(img, (cx, cy), 2, (255, 0, 255), cv2.FILLED)
         return self.lmList
     
-    def fingersUp():
+    def fingersUp(self):
         fingers = []
         #Thumb
         if self.lmList[self.tipIds[0]][1] < self.lmList[self.tipIds[0]-1][1]:
