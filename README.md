@@ -1,2 +1,2 @@
-# 39_X-AE-A-IV
-Repository for the flagship hackathon of PESU, DotSlash 4.0
+# Sakhaa---Smart-Ed-Tech-Platform
+This is a project built in a 24 hour hackathon. The product has been deployed using HTML, CSS and Flask. The smart platform allows teachers to directly create a zoom meet for an online class which will be sent to all students via Whatsapp. The teacher can teach by writing in air and annotating on a study material. There is an option to conduct proctored tests too. The students can take up these tests and can also give attendance. All these processes have been automated using concepts of API, Computer Vision and Machine Learning
